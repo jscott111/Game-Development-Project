@@ -1,0 +1,824 @@
+fileFormatVersion: 2
+guid: 64465f85195c3e744ad452d7ae8875c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4550234882292732921
+    second: SmallRedSlimeAnim-Sheet_0
+  - first:
+      213: -3071313838870731756
+    second: SmallRedSlimeAnim-Sheet_2
+  - first:
+      213: -4168538374747317507
+    second: SmallRedSlimeAnim-Sheet_3
+  - first:
+      213: 4995813153761290038
+    second: SmallRedSlimeAnim-Sheet_5
+  - first:
+      213: 7282411774471055468
+    second: SmallRedSlimeAnim-Sheet_7
+  - first:
+      213: -6900652946056004759
+    second: SmallRedSlimeAnim-Sheet_8
+  - first:
+      213: 3697414053583664654
+    second: SmallRedSlimeAnim-Sheet_10
+  - first:
+      213: -7814595669848778443
+    second: SmallRedSlimeAnim-Sheet_12
+  - first:
+      213: -6555382918948043671
+    second: SmallRedSlimeAnim-Sheet_13
+  - first:
+      213: 5002607594556107215
+    second: SmallRedSlimeAnim-Sheet_15
+  - first:
+      213: 8165955045629575102
+    second: SmallRedSlimeAnim-Sheet_16
+  - first:
+      213: 3405955517970212507
+    second: SmallRedSlimeAnim-Sheet_18
+  - first:
+      213: -5912714479380874669
+    second: SmallRedSlimeAnim-Sheet_19
+  - first:
+      213: -2006335429201082315
+    second: SmallRedSlimeAnim-Sheet_37
+  - first:
+      213: 5962869865590557802
+    second: SmallRedSlimeAnim-Sheet_39
+  - first:
+      213: -4816462528117217478
+    second: SmallRedSlimeAnim-Sheet_40
+  - first:
+      213: 5865102734770066474
+    second: SmallRedSlimeAnim-Sheet_42
+  - first:
+      213: 6364110418884450986
+    second: SmallRedSlimeAnim-Sheet_43
+  - first:
+      213: 2591356181670808292
+    second: SmallRedSlimeAnim-Sheet_45
+  - first:
+      213: -5715756397662055527
+    second: SmallRedSlimeAnim-Sheet_47
+  - first:
+      213: 3072870999251605371
+    second: SmallRedSlimeAnim-Sheet_48
+  - first:
+      213: 161225964105274714
+    second: SmallRedSlimeAnim-Sheet_49
+  - first:
+      213: 5406870378561843819
+    second: SmallRedSlimeAnim-Sheet_51
+  - first:
+      213: 159089376881087148
+    second: SmallRedSlimeAnim-Sheet_53
+  - first:
+      213: -7807446349771437052
+    second: SmallRedSlimeAnim-Sheet_54
+  - first:
+      213: -366027533247087131
+    second: SmallRedSlimeAnim-Sheet_55
+  - first:
+      213: 2291311296132153423
+    second: SmallRedSlimeAnim-Sheet_56
+  - first:
+      213: -7587484807831657950
+    second: SmallRedSlimeAnim-Sheet_57
+  - first:
+      213: -618306145979698937
+    second: SmallRedSlimeAnim-Sheet_58
+  - first:
+      213: -7706420853020990444
+    second: SmallRedSlimeAnim-Sheet_60
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SmallRedSlimeAnim-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f356ab648ea52f30800000000000000
+      internalID: 4550234882292732921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallRedSlimeAnim-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 58
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4146e5806508065d0800000000000000
+      internalID: -3071313838870731756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallRedSlimeAnim-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 60
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa1a9c1f606626c0800000000000000
+      internalID: -4168538374747317507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallRedSlimeAnim-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6376a2a2891b45540800000000000000
+      internalID: 4995813153761290038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallRedSlimeAnim-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 58
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68287dcce2501560800000000000000
+      internalID: 7282411774471055468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallRedSlimeAnim-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 58
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b3410f4b4fb30a0800000000000000
+      internalID: -6900652946056004759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallRedSlimeAnim-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 59
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e063463fd7adf4330800000000000000
+      internalID: 3697414053583664654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallRedSlimeAnim-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 60
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5399b5b44aafc8390800000000000000
+      internalID: -7814595669848778443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallRedSlimeAnim-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 60
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964407597f99605a0800000000000000
+      internalID: -6555382918948043671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallRedSlimeAnim-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 60
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc920303a15dc6540800000000000000
+      internalID: 5002607594556107215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallRedSlimeAnim-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf3f8259dc435170800000000000000
+      internalID: 8165955045629575102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallRedSlimeAnim-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9665618f72644f20800000000000000
+      internalID: 3405955517970212507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallRedSlimeAnim-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 42
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ab1360281d1fda0800000000000000
+      internalID: -5912714479380874669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallRedSlimeAnim-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5384032ae801824e0800000000000000
+      internalID: -2006335429201082315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallRedSlimeAnim-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c0864dc8e50c250800000000000000
+      internalID: 5962869865590557802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallRedSlimeAnim-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37e79179dc782db0800000000000000
+      internalID: -4816462528117217478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallRedSlimeAnim-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a245425dcd7056150800000000000000
+      internalID: 5865102734770066474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallRedSlimeAnim-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa58fc15bcd15850800000000000000
+      internalID: 6364110418884450986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallRedSlimeAnim-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea4007b7b856f320800000000000000
+      internalID: 2591356181670808292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallRedSlimeAnim-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993dfa6f6dd8da0b0800000000000000
+      internalID: -5715756397662055527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallRedSlimeAnim-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77ddfe94e705aa20800000000000000
+      internalID: 3072870999251605371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallRedSlimeAnim-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55901ff82acc3200800000000000000
+      internalID: 161225964105274714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallRedSlimeAnim-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62b2c466ff090b40800000000000000
+      internalID: 5406870378561843819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallRedSlimeAnim-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2198402f2353200800000000000000
+      internalID: 159089376881087148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallRedSlimeAnim-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c04f619e066a390800000000000000
+      internalID: -7807446349771437052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallRedSlimeAnim-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed7bc6d5eb9beaf0800000000000000
+      internalID: -366027533247087131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallRedSlimeAnim-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f400cc3eb7f5ccf10800000000000000
+      internalID: 2291311296132153423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallRedSlimeAnim-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222658a74c6d3b690800000000000000
+      internalID: -7587484807831657950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallRedSlimeAnim-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701707e06d55b67f0800000000000000
+      internalID: -618306145979698937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallRedSlimeAnim-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 0
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4146506801b4d0590800000000000000
+      internalID: -7706420853020990444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
